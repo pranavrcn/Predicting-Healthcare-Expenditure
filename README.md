@@ -1,1 +1,1 @@
-# pred-healthexp
+Utilized time series forecasting and multiple linear regression modeling to examine refugee movement's impact on healthcare expenditures across various countries. Compiled findings in a detailed report, both technical and non-technical.
